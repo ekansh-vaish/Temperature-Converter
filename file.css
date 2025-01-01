@@ -1,0 +1,29 @@
+*
+{
+margin: 0;
+padding: 0;
+}
+
+.converter
+{
+border-style: ridge;
+border-radius: 5px;
+height: 350px;
+width: 350px;
+
+}
+
+.converter h2{
+margin-top: 20px;
+font-family: sans-serif;
+
+}
+.converter p{
+margin: 10px;
+}
+
+#tounit
+{
+border-style: ridge;
+margin: 15px;
+}
